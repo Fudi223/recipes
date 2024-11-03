@@ -5,4 +5,4 @@
 * salt - 1,49€
 ## Instructions
 * peel the avocados
-
+* or put the avocado into a bowl first
