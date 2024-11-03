@@ -4,5 +4,5 @@
 * lime - 2,09€
 * salt - 1,49€
 ## Instructions
-* put one avocado into a bowl.
+* peel the avocados
 
